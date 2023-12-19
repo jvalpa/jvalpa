@@ -9,48 +9,63 @@
 Experienced Business Intelligence professional with a strong passion for data-driven projects. Proficient in Data Analysis and Machine Learning tasks. With strong leadership abilities facilitating collaborative surroundings, showcasing adaptability, self-organization, and a thriving spirit in dynamic environments, while continually seeking opportunities for personal and professional growth.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<YourGitHubUsername>&label=Profile%20views&color=0e75b6&style=flat" alt="<YourGitHubUsername>" />
+  <img src="https://komarev.com/ghpvc/?username=jvalpa&label=Profile%20views&color=0e75b6&style=flat" alt="jvalpa" />
 </p>
 
-- 🔭 I’m currently working on **<Project or Work>**
-- 🌱 I’m currently learning **<Skills or Technologies>**
-- 👯 I’m looking to collaborate on **<Collaboration Interests>**
-- 🤝 I’m looking for help with **<Topics You Need Help With>**
-- 💬 Ask me about **<Your Expertise>**
-- 📫 How to reach me: **<Your Email>**
-- 😄 Pronouns: **<Your Pronouns>**
-- ⚡ Fun fact: **<Fun Fact About You>**
+<!-- - 🔭 I’m currently working on **----** -->
+- 🌱 I’m currently styding **Big Data & AI**
+- 👯 I’m looking to collaborate on **Deep Learning**
+- 🤝 I’m looking for help with **Gen AI**
+- 💬 Ask me about **Business Analytics**
+- ⚡ Fun fact: **🍻 I've made my own beer! **
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="<Your LinkedIn URL>" target="blank"><img align="center" src="icons/linkedin.svg" alt="<YourLinkedInUsername>" height="30" width="40" /></a>
-<a href="<Your Twitter URL>" target="blank"><img align="center" src="icons/twitter.svg" alt="<YourTwitterUsername>" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/julio-valenzuela-pavez/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+</p
+
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
-  <a href="<URL or Documentation of Language/Tool>" target="_blank"> 
-    <img src="<Icon URL for Language/Tool>" alt="<Language/Tool Name>" width="40" height="40"/> 
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
   </a>
-  <!-- Repeat above line for each language/tool -->
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="r" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="powerbi" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="tableau" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" />
+  </a>
 </p>
 
-<h2 align="left">My Projects:</h2>
+<h2 align="left">My Previous Experience:</h2>
 
-### [Project Name 1]
-- **Description**: Brief description of the project
-- **Technologies Used**: List of technologies used
-- **[Link to Project](Project URL)**
+### Head of Insights
+- **Description**: Leader of the Data Analytics team.
+- **Technologies Used**: R, Python, Git, Tableau, GCP.
+<!-- - **[Link to Project](Project URL)** -->
 
-### [Project Name 2]
-- **Description**: Brief description of the project
-- **Technologies Used**: List of technologies used
-- **[Link to Project](Project URL)**
+### Reporting Consultant
+- **Description**: Data visualization advisor for makreting team.
+- **Technologies Used**: Power BI, Dax
+<!-- - **[Link to Project](Project URL)** -->
 
-### [Project Name 3]
-- **Description**: Brief description of the project
-- **Technologies Used**: List of technologies used
-- **[Link to Project](Project URL)**
+### Analytics Engineer
+- **Description**: Data scientist, Data Analyst. 
+- **Technologies Used**: R, Oracle SQL, Pentaho.
+<!-- - **[Link to Project](Project URL)** -->
 
 <!--
 **jvalpa/jvalpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,3 +81,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="left">Languages and Tools:</h2>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="r" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="powerbi" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="tableau" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" />
+  </a>
+</p>
+
