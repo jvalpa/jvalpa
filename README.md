@@ -17,12 +17,7 @@ Experienced Business Intelligence professional with a strong passion for data-dr
 - 👯 I’m looking to collaborate on **Deep Learning**
 - 🤝 I’m looking for help with **Gen AI**
 - 💬 Ask me about **Business Analytics**
-- ⚡ Fun fact: **🍻 I've made my own beer! **
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/julio-valenzuela-pavez/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
-</p
+- ⚡ Fun fact: **🍻 I've made my own beer!**
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -82,28 +77,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="r" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="powerbi" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="tableau" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" />
-  </a>
 </p>
 
