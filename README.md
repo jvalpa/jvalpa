@@ -15,7 +15,7 @@ Experienced Business Intelligence professional with a strong passion for data-dr
 <!-- - 🔭 I’m currently working on **----** -->
 - 🌱 I’m currently styding **Big Data & AI**
 - 👯 I’m looking to collaborate on **Deep Learning**
-- 🤝 I’m looking for help with **Gen AI**
+
 - 💬 Ask me about **Business Analytics**
 - ⚡ Fun fact: **🍻 I've made my own beer!**
 
@@ -54,7 +54,7 @@ Experienced Business Intelligence professional with a strong passion for data-dr
 
 ### Reporting Consultant
 - **Description**: Data visualization advisor for makreting team.
-- **Technologies Used**: Power BI, Dax
+- **Technologies Used**: Power BI, Dax, Tableau
 <!-- - **[Link to Project](Project URL)** -->
 
 ### Analytics Engineer
