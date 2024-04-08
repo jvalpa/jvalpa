@@ -43,7 +43,35 @@ Experienced Business Intelligence professional with a strong passion for data-dr
   <a href="https://cloud.google.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" />
   </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Kafka-000?style=flat&logo=apachekafka&logoColor=white" alt="kafka" />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="apache spark" />
+  </a>
 </p>
+
+
+## Recent Projects
+
+### Real-time Truck Violation Prediction
+- **Description**: This project aims to predict violations in real-time for a fleet of trucks using a Kafka topic. The architecture facilitates the ingestion of streaming data from truck sensors, processes the data through Apache Spark, and uses machine learning models to predict potential violations.
+- **Technologies Used**:
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/-Kafka-000?style=flat&logo=apachekafka&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-007396?style=flat&logo=ai&logoColor=white)
+- **[View Project](https://github.com/jvalpa/ml-inference-rt)**
+
+### Spotify Popularity Prediction
+- **Description**: This project aims to predict the popularity of songs based on various features extracted from the Spotify dataset. The primary predictors of popularity were found to be artist popularity and duration.
+- **Technologies Used**:
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-F37626?style=flat&logo=data&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-007396?style=flat&logo=ai&logoColor=white)
+- **[View Project](https://github.com/jvalpa/spotify-popularity-prediction)**
+
+
 
 <h2 align="left">My Previous Experience:</h2>
 
