@@ -75,7 +75,7 @@ Experienced Business Intelligence professional with a strong passion for data-dr
 
 <h2 align="left">My Previous Experience:</h2>
 
-### Head of Insights
+### Head of Advanced Analytics
 - **Description**: Leader of the Data Analytics team.
 - **Technologies Used**: R, Python, Git, Tableau, GCP.
 <!-- - **[Link to Project](Project URL)** -->
